@@ -1,4 +1,4 @@
 {
   "name": "twtai_kusuma1",
-  "owner": { "name": "Tech Writer's Tribe" },
+  "owner": { "name": "kusuma" },
   }
